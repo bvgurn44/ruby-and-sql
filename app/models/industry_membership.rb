@@ -1,0 +1,2 @@
+class IndustryMembership < ApplicationRecord
+end
